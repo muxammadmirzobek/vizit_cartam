@@ -1,0 +1,139 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif, monospace;
+}
+body {
+    background-image: url(https://images.unsplash.com/photo-1687904477461-3b38aeef9e54?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8aWNlJTIwbW91bnRhaW58ZW58MHx8MHx8fDA%3D);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    margin: 0 auto;
+}
+.bg-rgba {
+    background: rgba(2, 2, 27, 0.818);
+    width: 1440px;
+    height: auto;
+    margin: 0 auto;
+    margin-top: 40px;
+    padding-bottom: 40px;
+}
+.rgba__flex {
+    display: flex;
+}
+.wrapper {
+    max-width: 400px;
+    margin-right: auto;
+    margin-left: 60px;
+}
+.wrapper-contact {
+    max-width: 400px;
+    margin-right: auto;
+    margin-left: 60px;
+}
+.profilrasmi {
+    padding-top: 50px;
+    margin-left: 50px;
+}
+.rasmim {
+    background-image: url(img/Itachi.jpg);
+    width: 250px;
+    height: 250px;
+    border-radius: 100%;
+    background-size: cover;
+    background-position: center;
+    margin-left: 20px;
+}
+.ismim {
+    color: white;
+    font-family: monospace;
+    text-wrap: nowrap;
+    padding-bottom: 15px;
+}
+.kasbim {
+    color: white;
+    font-family: monospace;
+    margin-left: 40px;
+    padding-bottom: 20px;
+}
+.bowqismi {
+    padding-top: 15px;
+    width: 1016px;
+}
+.heder {
+    margin-left: 350px;
+    margin-right: 50px;
+    margin-bottom: 10px;
+}
+.list {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    list-style-type: none;
+    width: fit-content;
+    margin-top: 50px;
+}
+.list-item {
+    border-bottom: 2px solid transparent;
+    padding-bottom: 28px;
+}
+.list-item:hover {
+    border-bottom: 2px solid white;
+}
+.list-link {
+    color: white;
+    text-decoration: none;
+    font-weight: 500;
+    text-wrap: nowrap;
+}
+.contacts {
+    padding-top: 15px;
+    border-top: 3px solid white;
+    padding-bottom: 15px;
+    border-bottom: 3px solid white;
+}
+.contacts__h1 {
+    color: #fff;
+    font-family: sans-serif;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.icon-c {
+    margin-bottom: 20px;
+}
+.contact_icon {
+    color: rgb(77, 109, 202);
+    margin: none;
+    font-size: 20px;
+    padding-right: 7px;
+}
+.contact_a {
+    color: #fff;
+    text-decoration: none;
+}
+.main {
+    background-color: #f6f6f6;
+    height: auto;
+    width: 900px;
+    margin-left: auto;
+    height: auto;
+    padding-left: 40px;
+}
+.wrapper-main {
+    max-width: 930px;
+    margin: 0 auto;
+}
+.main__h1-1 {
+    padding-top: 20px;
+    color: rgb(18, 18, 118);
+    font-family: "poppins";
+    font-weight: 500;
+}
+.men_haqimda {
+    font-family: "poppins";
+}
+.lorem__a {
+    color: rgb(92, 77, 227);
+}
