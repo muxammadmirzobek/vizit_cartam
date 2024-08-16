@@ -29,7 +29,7 @@ body {
     margin-left: 60px;
 }
 .wrapper-contact {
-    max-width: 400px;
+    max-width: 380px;
     margin-right: auto;
     margin-left: 60px;
 }
@@ -51,6 +51,7 @@ body {
     font-family: monospace;
     text-wrap: nowrap;
     padding-bottom: 15px;
+    padding-right: 35px;
 }
 .kasbim {
     color: white;
@@ -58,12 +59,27 @@ body {
     margin-left: 40px;
     padding-bottom: 20px;
 }
+.educaation {
+    padding-top: 20px;
+}
+.education__h2 {
+    color: #fff;
+}
+.education__sanalar {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: larger;
+    color: rgb(77, 109, 202);
+}
+.education__h3 {
+    color: white;
+}
 .bowqismi {
     padding-top: 15px;
     width: 1016px;
 }
 .heder {
-    margin-left: 350px;
+    margin-left: 330px;
     margin-right: 50px;
     margin-bottom: 10px;
 }
@@ -116,10 +132,10 @@ body {
 .main {
     background-color: #f6f6f6;
     height: auto;
-    width: 900px;
     margin-left: auto;
     height: auto;
     padding-left: 40px;
+    margin-right: 35px;
 }
 .wrapper-main {
     max-width: 930px;
