@@ -73,6 +73,7 @@ body {
 }
 .education__h3 {
     color: white;
+    text-wrap: balance;
 }
 .bowqismi {
     padding-top: 15px;
@@ -80,7 +81,7 @@ body {
 }
 .heder {
     margin-left: 330px;
-    margin-right: 50px;
+    margin-right: 70px;
     margin-bottom: 10px;
 }
 .list {
