@@ -4,6 +4,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: sans-serif, monospace;
+    scroll-behavior: smooth;
 }
 body {
     background-image: url(https://images.unsplash.com/photo-1687904477461-3b38aeef9e54?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8aWNlJTIwbW91bnRhaW58ZW58MHx8MHx8fDA%3D);
@@ -64,6 +65,11 @@ body {
 }
 .education__h2 {
     color: #fff;
+    padding-top: 10px;
+    font-size: 26px;
+}
+.education__edu {
+    color: #fff;
 }
 .education__sanalar {
     padding-top: 10px;
@@ -74,15 +80,34 @@ body {
 .education__h3 {
     color: white;
     text-wrap: balance;
+    padding-bottom: 20px;
 }
+.til {
+    border-top: 3px solid white;
+    padding-top: 20px;
+}
+.til__til {
+    color: #fff;
+}
+.tillarturi {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: larger;
+    color: rgb(77, 109, 202);
+}
+.til_izox {
+    color: #fff;
+    text-wrap: balance;
+}
+
 .bowqismi {
     padding-top: 15px;
     width: 1016px;
 }
 .heder {
-    margin-left: 330px;
-    margin-right: 70px;
-    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 .list {
     display: flex;
@@ -104,6 +129,7 @@ body {
     text-decoration: none;
     font-weight: 500;
     text-wrap: nowrap;
+    padding-right: 7px;
 }
 .contacts {
     padding-top: 15px;
@@ -150,7 +176,16 @@ body {
 }
 .men_haqimda {
     font-family: "poppins";
+    padding-bottom: 40px;
 }
 .lorem__a {
     color: rgb(92, 77, 227);
+}
+.skill {
+    padding-bottom: 60px;
+}
+.skills {
+    color: rgb(18, 18, 118);
+    font-family: "poppins";
+    font-weight: 500;
 }
