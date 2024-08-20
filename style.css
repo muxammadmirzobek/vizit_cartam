@@ -131,6 +131,10 @@ body {
     text-wrap: nowrap;
     padding-right: 7px;
 }
+.list-link:hover {
+    font-size: 20px;
+    color: rgb(77, 109, 202);
+}
 .contacts {
     padding-top: 15px;
     border-top: 3px solid white;
@@ -161,11 +165,11 @@ body {
     height: auto;
     margin-left: auto;
     height: auto;
-    padding-left: 40px;
+
     margin-right: 35px;
 }
 .wrapper-main {
-    max-width: 930px;
+    max-width: 880px;
     margin: 0 auto;
 }
 .main__h1-1 {
@@ -188,4 +192,37 @@ body {
     color: rgb(18, 18, 118);
     font-family: "poppins";
     font-weight: 500;
+    margin-bottom: 20px;
+}
+.skildiv1 {
+    display: flex;
+    justify-content: space-between;
+}
+.divbox {
+    width: 400px;
+    border-right: 1px solid rgba(0, 0, 0, 0.1);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    box-shadow: 0.5px 0.5px 1px rgba(0, 0, 0, 0.1);
+}
+
+.skills__h3 {
+    text-transform: uppercase;
+    color: rgb(18, 18, 118);
+}
+ul {
+    text-decoration: none;
+}
+.li {
+    list-style-type: none;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+}
+.skildiv2 {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+.project {
+    color: rgb(18, 18, 118);
 }
