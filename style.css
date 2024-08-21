@@ -24,6 +24,9 @@ body {
 .rgba__flex {
     display: flex;
 }
+.rasimning-flexi {
+    width: auto;
+}
 .wrapper {
     max-width: 400px;
     margin-right: auto;
@@ -33,6 +36,10 @@ body {
     max-width: 380px;
     margin-right: auto;
     margin-left: 60px;
+}
+.p-wrapper {
+    max-width: 395px;
+    display: none;
 }
 .profilrasmi {
     padding-top: 50px;
@@ -104,7 +111,7 @@ body {
     padding-top: 15px;
     width: 1016px;
 }
-.heder {
+.header {
     display: flex;
     align-items: center;
     justify-content: center;
