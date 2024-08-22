@@ -188,8 +188,8 @@ body {
 .men_haqimda {
     font-family: "poppins";
     padding-bottom: 40px;
-    width: 1400px;
-    padding-left: 30px;
+    max-width: 1400px;
+    padding-left: 20px;
 }
 .lorem__a {
     color: rgb(92, 77, 227);
