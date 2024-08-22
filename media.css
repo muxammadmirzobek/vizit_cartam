@@ -25,6 +25,14 @@
     .rasimning-flexi {
         margin: auto;
     }
+    .profilrasmi {
+        padding-top: 50px;
+        margin-left: 30px;
+    }
+    .ismim {
+        padding-bottom: 10px;
+        padding-right: 0px;
+    }
     .header {
         display: none;
     }
@@ -60,5 +68,12 @@
         padding-bottom: 5px;
         margin-left: 20px;
         font-size: 25px;
+    }
+    .contacts {
+        padding-top: 15px;
+        border-top: 3px solid white;
+        padding-bottom: 15px;
+        border-bottom: 3px solid white;
+
     }
 }
