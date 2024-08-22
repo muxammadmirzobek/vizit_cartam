@@ -15,7 +15,7 @@ body {
 }
 .bg-rgba {
     background: rgba(2, 2, 27, 0.818);
-    width: 1440px;
+    max-width: 1440px;
     height: auto;
     margin: 0 auto;
     margin-top: 40px;
@@ -109,7 +109,7 @@ body {
 
 .bowqismi {
     padding-top: 15px;
-    width: 1016px;
+    /* width: 1016px; */
 }
 .header {
     display: flex;
