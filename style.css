@@ -38,8 +38,7 @@ body {
     margin-left: 60px;
 }
 .p-wrapper {
-    max-width: 390px;
-    display: none;
+    max-width: 850px;
 }
 .profilrasmi {
     padding-top: 50px;
@@ -172,8 +171,8 @@ body {
     height: auto;
     margin-left: auto;
     height: auto;
-
     margin-right: 35px;
+    width: 970px;
 }
 .wrapper-main {
     max-width: 880px;
@@ -184,10 +183,13 @@ body {
     color: rgb(18, 18, 118);
     font-family: "poppins";
     font-weight: 500;
+    padding-left: 30px;
 }
 .men_haqimda {
     font-family: "poppins";
     padding-bottom: 40px;
+    width: 1400px;
+    padding-left: 30px;
 }
 .lorem__a {
     color: rgb(92, 77, 227);
