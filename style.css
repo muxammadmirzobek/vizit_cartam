@@ -69,8 +69,9 @@ body {
     padding-bottom: 16px;
     margin-left: 20px;
 }
-.educaation {
+.education {
     padding-top: 20px;
+    margin-left: 20px;
 }
 .education__h2 {
     color: #fff;
@@ -94,6 +95,7 @@ body {
 .til {
     border-top: 3px solid white;
     padding-top: 20px;
+    margin-left: 20px;
 }
 .til__til {
     color: #fff;
@@ -149,6 +151,7 @@ body {
     border-top: 3px solid white;
     padding-bottom: 15px;
     border-bottom: 3px solid white;
+    margin-left: 20px;
 }
 .contacts__h1 {
     color: #fff;
@@ -186,7 +189,7 @@ body {
     color: rgb(18, 18, 118);
     font-family: "poppins";
     font-weight: 500;
-    padding-left: 30px;
+    padding-left: 15px;
 }
 .men_haqimda {
     font-family: "poppins";

@@ -75,4 +75,8 @@
         padding-bottom: 15px;
         border-bottom: 3px solid white;
     }
+    p {
+        max-width: 356px;
+        margin-right: 40px;
+    }
 }
