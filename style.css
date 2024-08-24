@@ -34,7 +34,7 @@ body {
 }
 .wrapper-contact {
     max-width: 380px;
-    margin-right: auto;
+    margin-right: 20px;
     margin-left: 60px;
     margin: 0 auto;
 }
@@ -60,12 +60,14 @@ body {
     text-wrap: nowrap;
     padding-bottom: 15px;
     padding-right: 35px;
+    margin-right: 35px;
+    font-size: 22px;
 }
 .kasbim {
     color: white;
     font-family: monospace;
-    margin-left: 40px;
-    padding-bottom: 20px;
+    padding-bottom: 16px;
+    margin-left: 20px;
 }
 .educaation {
     padding-top: 20px;
