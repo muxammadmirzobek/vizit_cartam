@@ -12,6 +12,7 @@ body {
     background-size: cover;
     background-attachment: fixed;
     margin: 0 auto;
+    user-select: none;
 }
 .bg-rgba {
     background: rgba(2, 2, 27, 0.818);
